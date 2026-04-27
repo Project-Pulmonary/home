@@ -21,3 +21,5 @@ To publish the site publicly:
 1. Ensure GitHub Pages is enabled on the `deploy` branch.
 2. Add the custom domain to your DNS provider and point it to GitHub Pages.
 3. Confirm the custom domain in GitHub Pages settings.
+
+# Redeploy trigger
